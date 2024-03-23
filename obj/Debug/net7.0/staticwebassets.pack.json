@@ -5,14 +5,6 @@
       "PackagePath": "staticwebassets\\GameZone.bundle.scp.css"
     },
     {
-      "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\assets\\images\\games\\2c4cd90d-b5e4-45a7-a21e-b16557652684.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\games\\2c4cd90d-b5e4-45a7-a21e-b16557652684.jpg"
-    },
-    {
-      "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\assets\\images\\games\\3e437f5d-e902-458e-8c2b-d5e04636ed9a.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\games\\3e437f5d-e902-458e-8c2b-d5e04636ed9a.jpg"
-    },
-    {
       "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\assets\\images\\games\\4f3f44f2-9c70-443f-8a4a-a2bb7521b873.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\games\\4f3f44f2-9c70-443f-8a4a-a2bb7521b873.jpg"
     },
@@ -39,6 +31,10 @@
     {
       "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\js\\game-form.js",
       "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\js\\game-index.js",
+      "PackagePath": "staticwebassets\\js\\game-index.js"
     },
     {
       "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\js\\site.js",
@@ -303,6 +299,14 @@
     {
       "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\learning\\c#\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props",

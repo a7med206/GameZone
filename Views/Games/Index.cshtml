@@ -39,7 +39,7 @@ else
                                 <a class="btn btn-info rounded rounded-3 me-2" asp-action="Edit" asp-route-id="@game.Id">
                                     <i class="bi bi-pencil-fill"></i>
                                 </a>
-                                <a class="btn btn-danger rounded rounded-3 " href="#">
+                                <a class="btn btn-danger rounded rounded-3 js-delete" data-id="@game.Id" href="javascript:;" >
                                     <i class="bi bi-trash3"></i>
                                 </a>
                             </div>
@@ -49,4 +49,8 @@ else
             </tbody>
         </table>
     </div>
+}
+
+@section Scripts{
+    <script src="~/js/game-index.js" asp-append-version="true"></script>
 }

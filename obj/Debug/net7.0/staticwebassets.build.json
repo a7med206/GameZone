@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VwTJjetFCFk61/ulEKyl3MVJPujSfI936QBKhn3tZe8=",
+  "Hash": "R7i9vy7GvEX69EIQsBPjA6UNo1CNmGhMum8vY2Ceqn4=",
   "Source": "GameZone",
   "BasePath": "_content/GameZone",
   "Mode": "Default",
@@ -49,40 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\learning\\c#\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\assets\\images\\games\\2c4cd90d-b5e4-45a7-a21e-b16557652684.jpg",
-      "SourceId": "GameZone",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\learning\\c#\\GameZone\\wwwroot\\",
-      "BasePath": "_content/GameZone",
-      "RelativePath": "assets/images/games/2c4cd90d-b5e4-45a7-a21e-b16557652684.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\2c4cd90d-b5e4-45a7-a21e-b16557652684.jpg"
-    },
-    {
-      "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\assets\\images\\games\\3e437f5d-e902-458e-8c2b-d5e04636ed9a.jpg",
-      "SourceId": "GameZone",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\learning\\c#\\GameZone\\wwwroot\\",
-      "BasePath": "_content/GameZone",
-      "RelativePath": "assets/images/games/3e437f5d-e902-458e-8c2b-d5e04636ed9a.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\3e437f5d-e902-458e-8c2b-d5e04636ed9a.jpg"
     },
     {
       "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\assets\\images\\games\\4f3f44f2-9c70-443f-8a4a-a2bb7521b873.jpg",
@@ -202,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\game-form.js"
+    },
+    {
+      "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\js\\game-index.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learning\\c#\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "js/game-index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\game-index.js"
     },
     {
       "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\js\\site.js",
@@ -1324,6 +1307,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learning\\c#\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/sweetalert2/sweetalert2.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Identity": "D:\\learning\\c#\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learning\\c#\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/sweetalert2/sweetalert2.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.min.js"
     }
   ]
 }
